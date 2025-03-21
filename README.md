@@ -1,1 +1,2 @@
-# clean_google_search_extension
+# Extension
+A addon to browsers to increase safety and Visuals
