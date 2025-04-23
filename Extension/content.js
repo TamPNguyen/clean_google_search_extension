@@ -29,6 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
             document.querySelectorAll(".cUnQKe").forEach(peopleAlsoAsk => peopleAlsoAsk.remove()); //peopleAlsoAsk
             document.querySelectorAll(".ULSxyf.yhQgZb").forEach(WEPP => WEPP.remove()); //whatPeopleAreSaying exploreBrands peopleAlsoBuyFrom peopleAlsoSearchFor
             document.querySelectorAll(".yG4QQe.TBC9ub.NbhJ1c").forEach(whatPeopleAreSaying => whatPeopleAreSaying.remove()); //whatPeopleAreSaying
+            document.querySelectorAll(".oIk2Cb").forEach(peopleAlsoSearchFor => peopleAlsoSearchFor.remove()); //peopleAlsoSearchFor
             document.querySelectorAll(".NPn0Pb").forEach(fastPickupDelivery => fastPickupDelivery.remove()); //fastPickupDelivery
             document.querySelectorAll(".f8O9Qd.NPn0Pb").forEach(inStoreNearBy => inStoreNearBy.remove()); //inStoreNearBy
             document.querySelectorAll(".mnr-c.sPmWM").forEach(buyingGuild => buyingGuild.remove()); //buyingGuild
